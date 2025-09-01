@@ -1,0 +1,3 @@
+TELEGRAM_BOT_TOKEN=2687
+ODDS_API_KEY=2687
+DATABASE_URL=postgresql://user:pass@host:5432/db
